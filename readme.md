@@ -22,11 +22,7 @@ ImageToHTML Payload Converter is a native Windows application developed in C. It
 
 ## 🖥️ Screenshots
 
-Add screenshots of the application here.
-
-```markdown
-![Application Screenshot](screenshots/main-window.png)
-```
+![ImageToHTML Payload Converter - Main Window](screenshots/main-window.png)
 
 ---
 
